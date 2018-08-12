@@ -1,0 +1,8 @@
+{
+  "name": "uppercase-space",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yudaprama/uppercase-space.git",
+  "author": "Yuda Prama",
+  "license": "MIT"
+}
