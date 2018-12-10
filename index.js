@@ -1,1 +1,3 @@
-export default (value: string) => value.replace(/([A-Z])/g, ' $1').trim()
+export default function uppercaseSpace (value: string) {
+	return value.replace(/([A-Z])/g, ' $1').trim();
+}
